@@ -16,8 +16,8 @@ var config = {
       image: "",
       description: "De acordo com o Censo Escolar de 2022, o Brasil contava com quase 7 milhões de estudantes matriculados no ensino médio na rede pública. No mesmo ano, a taxa de abandono escolar nessa etapa final da educação básica chegou a <span class='texto-destaque'>6,5%</span>.",
       location: {
-        center: [-46.97236, -23.55503],
-        zoom: 4.82,
+        center: [-46.62775, -23.55499],
+        zoom: 10,
         pitch: 0.0,
         bearing: 0.0,
       },
